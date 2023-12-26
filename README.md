@@ -1,2 +1,2 @@
 # Netflix-Clone
-This my first Git repository.
+This my second Git repository.
